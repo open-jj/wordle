@@ -1,4 +1,4 @@
-# Wordle
+# Wordle <img src="https://www.nytimes.com/games/wordle/images/NYT-Wordle-Icon-192.png" alt="" width="75" height=75/>
 A project where it'll show the day's Wordle answer. 
 ## What to do?
 Click on the button which says "Show", then the word will show and you can copy it by clicking the button "Copy" or by manually selecting the text and copying it.
