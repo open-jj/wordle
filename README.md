@@ -1,7 +1,7 @@
 # Wordle <img src="https://www.nytimes.com/games/wordle/images/NYT-Wordle-Icon-192.png" alt="" width="25" height="25"/>
 A project where it'll show the day's Wordle answer.
 ## Link
-- [https://open-jj.github.com/wordle](https://open-jj.github.com/wordle)
+- [https://open-jj.github.io/wordle](https://open-jj.github.io/wordle)
 ## What to do?
 Click on the button which says "Show", then the word will show and you can copy it by clicking the button "Copy" or by manually selecting the text and copying it.
 ## API
