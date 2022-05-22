@@ -40,6 +40,6 @@ copyButton[0].addEventListener("click", function() {
     navigator.clipboard.writeText(m[k]);
     this.textContent = "Copied!";
     setTimeout(function() {
-        copyButton[0].textContent = "Copy";
+        this.textContent = "Copy";
     }, 5000);
 });
