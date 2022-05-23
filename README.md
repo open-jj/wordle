@@ -2,6 +2,8 @@
 A project where it'll show the day's Wordle answer.
 ## Link
 - [https://open-jj.github.io/wordle](https://open-jj.github.io/wordle)
+## Original Wordle Game
+- [https://www.nytimes.com/games/wordle/index.html](https://www.nytimes.com/games/wordle/index.html)
 ## What to do?
 Click on the button which says "Show", then the word will show and you can copy it by clicking the button "Copy" or by manually selecting the text and copying it.
 ## What is Wordle?
