@@ -10,7 +10,7 @@ const showButton = document.getElementsByClassName('show-btn');
 const copyButton = document.getElementsByClassName('copy-btn');
 
 let xmlHttpReq = new XMLHttpRequest();
-xmlHttpReq.open("GET", 'https://raw.githubusercontent.com/reddGit/tools/main/wordle/words.txt', false); 
+xmlHttpReq.open("GET", 'https://raw.githubusercontent.com/open-jj/wordle/main/words.txt', false); 
 xmlHttpReq.send(null); 
 n = xmlHttpReq.responseText;
 m = n.split(/\n|\r/g);
